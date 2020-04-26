@@ -1,0 +1,15 @@
+{
+  "short_name": "Covid19Bihar",
+  "name": "Covid-19 Tracker Bihar",
+  "icons": [
+    {
+      "src": "covid.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2C3D55",
+  "background_color": "#ffffff"
+}
